@@ -1,3 +1,7 @@
+https://codebuild.ap-northeast-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiTFBlT2VHR1hHRWtncWxqVzBVSmVNR3pPb3R0OE14Q20wRVNqVmpwTVFFZGR1OE9mUFhnUUt1VjZiTEJzVjhjbUg2Z2gyTk55OGZRVFJNUWhiL05ZdUY4PSIsIml2UGFyYW1ldGVyU3BlYyI6Ilh4enkySzAvQVRTMHJ5M3kiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
